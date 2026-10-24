@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -13,9 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
