@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0035-search-insert-position) |
+| [0084-largest-rectangle-in-histogram](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0219-contains-duplicate-ii) |
@@ -55,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
