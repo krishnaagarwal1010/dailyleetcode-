@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
