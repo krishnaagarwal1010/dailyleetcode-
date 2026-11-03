@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
