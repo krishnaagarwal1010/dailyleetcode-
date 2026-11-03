@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0303-range-sum-query-immutable) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0290-word-pattern) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
