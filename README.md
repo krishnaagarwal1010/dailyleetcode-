@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0633-sum-of-square-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0290-word-pattern) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/krishnaagarwal1010/dailyleetcode-/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
